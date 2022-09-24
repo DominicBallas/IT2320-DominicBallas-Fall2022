@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient(purple, blue);
+    
+  }
+  
+  h1 {
+    color: rgb(163, 116, 15);
+    margin-left: 20px;
+  }
+
+
+  h2 {
+    color: rgb(37, 194, 50);
+    margin-left: 20px;
+  }
+
+
+  h3 {
+    color: rgb(252, 205, 105);
+    margin-left: 20px;
+  }
+
+  h1 {
+    text-shadow: 2px 2px 5px yellow;
+  }
