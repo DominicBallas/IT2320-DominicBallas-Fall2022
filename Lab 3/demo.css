@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     width: 1200px;
 }
@@ -26,4 +27,34 @@ div
     padding: 2px;
     margin: 2px;
     border-radius: 15px;
+=======
+body{
+    width: 1200px;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    background-image: linear-gradient(lightblue, teal);   
+    border-radius: 15px; 
+}
+
+div
+{
+    float: left;
+    padding: 20px;
+    width: 50%;
+    border: 1px solid teal;
+    margin: 10px;
+}
+
+.op
+{
+    width: 80px;
+    height: 50px;
+    font-size: small;
+    padding: 2px;
+    margin: 2px;
+    border-radius: 15px;
+>>>>>>> 2b995b7c2709b8c224f05560fb0f60f69d8505f2
 }
